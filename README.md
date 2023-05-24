@@ -1,4 +1,4 @@
-# juls_atts [FiveM]
+# juls_copyoutfit [FiveM]
 by Juls#8754
 
 
